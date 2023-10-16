@@ -1,4 +1,4 @@
-let word = "binarr";
+let word = "binar";
 let temp = [];
 for (let i = 0; i < word.length; i++) {
     temp.push(word[i]);
